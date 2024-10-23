@@ -1,5 +1,6 @@
 {
     "name": "pgnetwork/bedrock-protocol",
+    "version": "dev-master-giga",
     "description": "An implementation of the Minecraft: Bedrock Edition protocol in PHP",
     "type": "library",
     "require": {
